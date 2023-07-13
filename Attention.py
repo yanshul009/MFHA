@@ -71,6 +71,7 @@ if __name__=='__main__':
     pass
         
 
+
     # model=SelfAttention(input_size=1024,output_size=1024,pos_enc='absolute')
     # input=torch.randn(2,1024)
     # output,weight=model(input)
